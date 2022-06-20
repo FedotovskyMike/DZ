@@ -1,0 +1,15 @@
+B:\Users\father\Git\2006\less00\bin\Debug\net6.0\less00.exe
+B:\Users\father\Git\2006\less00\bin\Debug\net6.0\less00.deps.json
+B:\Users\father\Git\2006\less00\bin\Debug\net6.0\less00.runtimeconfig.json
+B:\Users\father\Git\2006\less00\bin\Debug\net6.0\less00.dll
+B:\Users\father\Git\2006\less00\bin\Debug\net6.0\less00.pdb
+B:\Users\father\Git\2006\less00\obj\Debug\net6.0\less00.csproj.AssemblyReference.cache
+B:\Users\father\Git\2006\less00\obj\Debug\net6.0\less00.GeneratedMSBuildEditorConfig.editorconfig
+B:\Users\father\Git\2006\less00\obj\Debug\net6.0\less00.AssemblyInfoInputs.cache
+B:\Users\father\Git\2006\less00\obj\Debug\net6.0\less00.AssemblyInfo.cs
+B:\Users\father\Git\2006\less00\obj\Debug\net6.0\less00.csproj.CoreCompileInputs.cache
+B:\Users\father\Git\2006\less00\obj\Debug\net6.0\less00.dll
+B:\Users\father\Git\2006\less00\obj\Debug\net6.0\refint\less00.dll
+B:\Users\father\Git\2006\less00\obj\Debug\net6.0\less00.pdb
+B:\Users\father\Git\2006\less00\obj\Debug\net6.0\less00.genruntimeconfig.cache
+B:\Users\father\Git\2006\less00\obj\Debug\net6.0\ref\less00.dll
